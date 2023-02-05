@@ -1,0 +1,16 @@
+Algorithm
+
+
+1. Get the number of letters to be used from the user and check if it is from the range 3 to 15
+
+2. Get the letters from the user and their score
+
+3. Ask the user to make a word
+
+4. Check if the word made is valid
+
+5. Find the score for the word
+
+6. Ask the user if he wants to play again
+
+7. If the user enters the number in place of word display the message "INVALID LETTER"
